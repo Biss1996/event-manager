@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Drama Festival",
+      "venue": "Kasarani",
+      "date": "2025-06-23",
+      "status": "Available",
+      "image": "/images/music-festival.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Maasai Art Expo",
+      "venue": "National Museum",
+      "date": "2025-06-01",
+      "status": "Sold Out",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSDe659SziIFbihqghjcMTfDwoc4HBIYiHCg&s"
+    },
+    {
+      "id": 3,
+      "name": "Tech Conference",
+      "venue": "KICC Nairobi",
+      "date": "2025-07-15",
+      "status": "Cancelled",
+      "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "id": 4,
+      "name": "Food Market",
+      "venue": "Vila Rosa Kempinski",
+      "date": "2025-05-20",
+      "status": "Available",
+      "image": "/images/food.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Marathon",
+      "venue": "Kipchoge Stadium",
+      "date": "2025-08-05",
+      "status": "Sold Out",
+      "image": "/images/marathon.jpg"
+    }
+  ]
+}

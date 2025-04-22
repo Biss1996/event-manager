@@ -19,7 +19,7 @@ function EventForm({ addEvent }) {
   };
 
   return (
-    <form onSubmit={handleSubmit} className="bg-white p-6 rounded-lg shadow-lg">
+    <form onSubmit={handleSubmit} className="bg-blue-500 p-6 rounded-lg shadow-lg">
       <h2 className="text-xl font-semibold mb-4">Add Event</h2>
       <input
         type="text"
